@@ -1,4 +1,4 @@
-# Beauvoir-shoes
+# Projet en PHP-shoes
 
 ## Github
 
