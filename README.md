@@ -1,4 +1,4 @@
-# Projet en PHP-shoes
+# Projet site de shoes en php
 
 ## Github
 
